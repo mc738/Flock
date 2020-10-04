@@ -6,7 +6,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Program.fs"/>
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Flock.Core\Flock.Core.fsproj" />
+      <ProjectReference Include="..\Flock.Integrations\Flock.Integrations.fsproj" />
     </ItemGroup>
 
 </Project>
