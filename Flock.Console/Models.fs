@@ -1,0 +1,2 @@
+module Flock.Console.Models
+

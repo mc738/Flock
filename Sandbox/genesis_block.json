@@ -1,0 +1,14 @@
+{
+    "config": {
+        "chainId": 15,
+        "homesteadBlock": 0,
+      	"eip150Block": 0,
+        "eip155Block": 0,
+        "eip158Block": 0
+    },
+    "difficulty": "400000",
+    "gasLimit": "2100000",
+    "alloc": {
+        "0x1bDb89DcddE1472073a4D4F95Cb0599017bb9141": { "balance": "5000000000000000000" }
+    }
+}
